@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 /**
- * Created by GrupoUTP on 02/06/2017.
+ * Created by WILMER LEONEL RAMOS HERRERA on 02/06/2017.
  */
 public class BaseEntity {
     private Connection connection;
