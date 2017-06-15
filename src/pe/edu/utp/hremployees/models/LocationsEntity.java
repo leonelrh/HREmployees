@@ -6,9 +6,10 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by RAMOS He on 10/06/2017.
+/*
+ Created by RAMOS He on 10/06/2017.
  */
+
 public class LocationsEntity extends BaseEntity {
 
     public LocationsEntity() {
@@ -16,6 +17,9 @@ public class LocationsEntity extends BaseEntity {
         setTableName("locations");
     }
 
+    /*
+    probando que funcione
+     */
     public LocationsEntity(Connection connection) {
         super(connection, "locations");
     }
