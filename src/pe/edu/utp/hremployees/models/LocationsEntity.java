@@ -18,7 +18,7 @@ public class LocationsEntity extends BaseEntity {
     }
 
     /*
-    probando que funcione
+    probando que
      */
     public LocationsEntity(Connection connection) {
         super(connection, "locations");
