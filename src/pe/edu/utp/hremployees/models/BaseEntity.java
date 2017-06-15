@@ -3,9 +3,6 @@ package pe.edu.utp.hremployees.models;
 import java.sql.Connection;
 import java.sql.SQLException;
 
-/**
- * Created by Wilmer leonel ramos herrea on 02/06/2017.
- */
 public class BaseEntity {
     private Connection connection;
     private static String BASE_QUERY = "SELECT * FROM ";
