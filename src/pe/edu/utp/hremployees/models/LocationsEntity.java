@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by GrupoUTP on 10/06/2017.
+ * Created by WILMER LEONEL RAMOS HERRERA on 10/06/2017.
  */
 public class LocationsEntity extends BaseEntity {
 
