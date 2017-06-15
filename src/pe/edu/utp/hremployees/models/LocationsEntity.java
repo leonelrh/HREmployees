@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
- Created by RAMOS He on 10/06/2017.
+ Created by RAMOSjbjhb He on 10/06/2017.
  */
 
 public class LocationsEntity extends BaseEntity {
@@ -18,7 +18,7 @@ public class LocationsEntity extends BaseEntity {
     }
 
     /*
-    probando con rh
+    probando con rhhfdg
      */
     public LocationsEntity(Connection connection) {
         super(connection, "locations");
